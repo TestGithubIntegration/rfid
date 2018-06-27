@@ -16,7 +16,8 @@ Read and write different types of Radio-Frequency IDentification (RFID) cards
 on your Arduino using a RC522 based reader connected via the Serial Peripheral
 Interface (SPI) interface.
 
-mistak
+mistake
+
 
 .. _development:
 Development
