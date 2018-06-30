@@ -1,7 +1,7 @@
 MFRC522
 =======
 
-test
+blub
 
 .. image:: https://travis-ci.org/miguelbalboa/rfid.svg?branch=master
     :target: https://travis-ci.org/miguelbalboa/rfid
